@@ -1,0 +1,59 @@
+2020/12/24 14:58:55    Message: element click intercepted: Element <button type="button" id="gRFPr3" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 303). Other element would receive the click: <div id="gRFPh2-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/24 14:58:56    Message: element click intercepted: Element <button type="button" id="gRFPj5" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 359). Other element would receive the click: <div id="gRFPh2-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/24 14:58:57    Message: element click intercepted: Element <button type="button" id="gRFP65" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 415). Other element would receive the click: <div id="gRFPh2-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/24 14:58:58    Message: element click intercepted: Element <button type="button" id="gRFPu4" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 471). Other element would receive the click: <div id="gRFPh2-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:04:47    進入流程表單中心 error
+2020/12/29 10:06:54    Message: element click intercepted: Element <button type="button" id="zGDP93" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 303). Other element would receive the click: <div id="zGDPq0-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:06:55    Message: element click intercepted: Element <button type="button" id="zGDPp3" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 359). Other element would receive the click: <div id="zGDPq0-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:06:56    Message: element click intercepted: Element <button type="button" id="zGDP_4" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 415). Other element would receive the click: <div id="zGDPq0-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:06:57    Message: element click intercepted: Element <button type="button" id="zGDPa8" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 471). Other element would receive the click: <div id="zGDPq0-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:06:58    Message: element click intercepted: Element <button type="button" id="zGDPy7" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 527). Other element would receive the click: <div id="zGDPq0-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:11:59    Message: element click intercepted: Element <button type="button" id="vBYW93" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 303). Other element would receive the click: <div id="vBYW55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:12:00    Message: element click intercepted: Element <button type="button" id="vBYWp3" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 359). Other element would receive the click: <div id="vBYW55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:12:01    Message: element click intercepted: Element <button type="button" id="vBYW_4" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 415). Other element would receive the click: <div id="vBYW55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:12:02    Message: element click intercepted: Element <button type="button" id="vBYWn8" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 471). Other element would receive the click: <div id="vBYW55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:12:03    Message: element click intercepted: Element <button type="button" id="vBYWa8" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 527). Other element would receive the click: <div id="vBYW55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:13:58    Message: element click intercepted: Element <button type="button" id="pGuP93" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 303). Other element would receive the click: <div id="pGuP55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:13:59    Message: element click intercepted: Element <button type="button" id="pGuPp3" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 359). Other element would receive the click: <div id="pGuP55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:14:01    Message: element click intercepted: Element <button type="button" id="pGuP_4" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 415). Other element would receive the click: <div id="pGuP55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:14:02    Message: element click intercepted: Element <button type="button" id="pGuPn8" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 471). Other element would receive the click: <div id="pGuP55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:14:03    Message: element click intercepted: Element <button type="button" id="pGuPa8" class="z-button" style="width: 46px;">...</button> is not clickable at point (947, 527). Other element would receive the click: <div id="pGuP55-mask" class="z-modal-mask" style="z-index: 1801; left: 0px; top: 0px; width: 1017px; height: 560px; display: block;"></div>
+  (Session info: chrome=87.0.4280.88)
+
+2020/12/29 10:15:56    抓成員資料 error
